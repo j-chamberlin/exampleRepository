@@ -1,0 +1,12 @@
+h2 {
+	color: red;
+	font-family: "Papyrus", Andale Mono, sans-serif; 
+}
+p {
+	color: blue;
+	font-family: "Courier", Andale Mono, sans-serif;
+	font-size: 24px;
+}
+img {
+	width: 101px;
+}
